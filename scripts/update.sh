@@ -14,7 +14,7 @@ exit 0
 ### END SECTION ###
 
 ### Constants
-pivpnrepo="https://github.com/tabletka99/pivpn.git"
+pivpnrepo="https://github.com/pivpn/pivpn.git"
 pivpnlocalpath="/etc/.pivpn"
 pivpnscripts="/opt/pivpn/"
 bashcompletiondir="/etc/bash_completion.d/"
